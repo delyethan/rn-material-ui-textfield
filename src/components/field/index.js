@@ -638,6 +638,7 @@ export default class TextField extends PureComponent {
         this.constructor.inputContainerStyle,
         inputContainerStyle,
         inputContainerStyleOverrides,
+        { marginTop: 5 }
       ],
     }
 
