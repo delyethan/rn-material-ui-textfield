@@ -29,6 +29,7 @@
   ],
   "main": "index.js",
   "files": [
+    "index.d.ts",
     "index.js",
     "src/*",
     "license.txt",
